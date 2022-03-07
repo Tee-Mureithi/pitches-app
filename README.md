@@ -47,7 +47,7 @@ A user can ;
 * view the different categories.
 
 ## Setup/Installation Requirements
-Want to contribute? Lovely!
+Want to contribute to this repo ? Lovely!
 
 To fix a bug or enhance an existing module, follow these steps:
 
