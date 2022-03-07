@@ -73,4 +73,4 @@ No known bugs.
 
 
 ### License
-[MITlicense](LICENSE) 2022 **TEE MUREITHI**
+[MITlicense](LICENSE) 2022 **TEE-MUREITHI**
