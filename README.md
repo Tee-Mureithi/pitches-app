@@ -69,7 +69,6 @@ No known bugs.
 * pip
 * Bootstrap 
 * Flask framework that is a Python microframework.
-* javascript
 * awesome & google fonts
 
 
