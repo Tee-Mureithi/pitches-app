@@ -6,6 +6,7 @@ from flask_login import LoginManager
 from flask_uploads import UploadSet,configure_uploads,IMAGES
 #from flaskext.mail import Mail, Message
 from flask_mail import Mail
+import os
 
 bootstrap = Bootstrap()
 db = SQLAlchemy()
